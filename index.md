@@ -1,4 +1,8 @@
-# Data Roadmap & Resources
+---
+layout: default
+title: Data Roadmap & Resources
+---
+
 
 Explore my data analyst roadmap and download all resources.
 
