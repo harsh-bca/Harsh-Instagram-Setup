@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Data Roadmap & Resources
+title: Data analyst Roadmap & Resources
 ---
 
 
