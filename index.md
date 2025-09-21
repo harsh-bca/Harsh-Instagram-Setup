@@ -1,18 +1,30 @@
 ---
 layout: default
-title: Data analyst Roadmap & Resources
+title: Data Analyst Roadmap & Resources
 ---
 
+<div style="font-family: Arial, sans-serif; text-align:center; margin-top: 40px; animation: slidein 1s ease forwards; opacity:0; font-size: 1.5rem; font-weight: 600; color: #222;">
+  Hello dear, I know you are confused about your career but don't worry
+</div>
+
+<div style="font-family: Arial, sans-serif; text-align:center; font-size: 3rem; font-weight: bold; color: #e1306c; margin: 20px 0; letter-spacing: 2px; text-shadow: 1px 2px 8px #f0f0f0;">
+  TUMHARA BHAI HAI NA
+</div>
+
+## Data Analyst Roadmap & Resources
 
 Explore my data analyst roadmap and download all resources.
 
 ## Connect with me
 
-[![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/harsh-tripathi-64376333a)  
-[LinkedIn](https://www.linkedin.com/in/harsh-tripathi-64376333a)  
-
-[![Instagram](https://cdn-icons-png.flaticon.com/512/2111/2111463.png)](https://www.instagram.com/harshanalyst2025)  
-[Instagram](https://www.instagram.com/harshanalyst2025)
+<p align="center">
+  <a href="https://www.linkedin.com/in/harsh-tripathi-64376333a" target="_blank" rel="noopener" style="margin-right: 20px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="36" height="36" />
+  </a>
+  <a href="https://www.instagram.com/harshanalyst2025" target="_blank" rel="noopener">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="36" height="36" />
+  </a>
+</p>
 
 ---
 
@@ -38,3 +50,9 @@ _To download the full roadmap and resources, please follow me on Instagram [@har
   © 2025 Harsh Tripathi - Data Analyst Vision
 </footer>
 
+<style>
+@keyframes slidein {
+  from { opacity: 0; transform: translateY(-30px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+</style>
